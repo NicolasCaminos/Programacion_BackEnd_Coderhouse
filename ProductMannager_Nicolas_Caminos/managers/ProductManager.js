@@ -61,10 +61,6 @@ export default class ProductManager {
             return null
         }
 
-        // updates item by index, and changes the attribute with the value
-        // e.g 
-        // await manager.updateProduct(1, 'nombre', 'Cacharro, ups')
-
         const selectedItem = productos[item_index];
         selectedItem[atribute] = value;
         productos[item_index] = selectedItem;

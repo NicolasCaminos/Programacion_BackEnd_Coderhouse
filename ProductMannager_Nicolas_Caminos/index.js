@@ -14,16 +14,25 @@ const context = async () => {
         stock: 25
     }
 
-    await productManager.addProducts(productTest);
+    let productTestUpdate = {
+        title: 'producto prueba',
+        description: 'Este es un producto prueba',
+        price: 200,
+        thumbnail: 'Sin imagen',
+        code: 'abc123',
+        stock: 25
+    }
 
-    const newUsers = await productManager.getProducts();
-    console.log(newUsers);
+    //await productManager.addProducts(productTest);
 
-    const busquedaPorId = await productManager.getProductById(1);
-    console.log(busquedaPorId)
+    //const newUsers = await productManager.getProducts();
+    //console.log(newUsers);
 
-    await productManager.deleteProduct(1);
-    await productManager.updateProduct(1, 'title', 'producto prueba de Test')
+    //const busquedaPorId = await productManager.getProductById(1);
+    //console.log(busquedaPorId)
+
+    // await productManager.deleteProduct(1);
+    await productManager.updateProduct(1, productTestUpdate)
     console.log(await productManager.getProductById(1));
 }
 
