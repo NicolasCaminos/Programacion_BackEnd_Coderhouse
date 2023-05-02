@@ -1,0 +1,89 @@
+[
+	{
+		"title": "prueba de producto en tiempo real 19",
+		"description": "Este es un producto posteado desde Postman",
+		"price": 19.99,
+		"thumbnail": "imagenPostman.jpg",
+		"code": 58,
+		"stock": 10,
+		"category": "realTimeProduct",
+		"status": true
+	},
+	{
+		"title": "prueba de producto en tiempo real 19",
+		"description": "Este es un producto posteado desde Postman",
+		"price": 19.99,
+		"thumbnail": "imagenPostman.jpg",
+		"code": 59,
+		"stock": 10,
+		"category": "realTimeProduct",
+		"status": true,
+		"id": null
+	},
+	{
+		"title": "prueba de producto en tiempo real 19",
+		"description": "Este es un producto posteado desde Postman",
+		"price": 19.99,
+		"thumbnail": "imagenPostman.jpg",
+		"code": 60,
+		"stock": 10,
+		"category": "realTimeProduct",
+		"status": true,
+		"id": 1
+	},
+	{
+		"title": "prueba de producto en tiempo real 19",
+		"description": "Este es un producto posteado desde Postman",
+		"price": 19.99,
+		"thumbnail": "imagenPostman.jpg",
+		"code": 61,
+		"stock": 10,
+		"category": "realTimeProduct",
+		"status": true,
+		"id": 2
+	},
+	{
+		"title": "prueba de producto en tiempo real 19",
+		"description": "Este es un producto posteado desde Postman",
+		"price": 19.99,
+		"thumbnail": "imagenPostman.jpg",
+		"code": 62,
+		"stock": 10,
+		"category": "realTimeProduct",
+		"status": true,
+		"id": 3
+	},
+	{
+		"title": "prueba de producto en tiempo real 20",
+		"description": "Este es un producto posteado desde Postman",
+		"price": 19.99,
+		"thumbnail": "imagenPostman.jpg",
+		"code": 63,
+		"stock": 10,
+		"category": "realTimeProduct",
+		"status": true,
+		"id": 4
+	},
+	{
+		"title": "prueba de producto en tiempo real 21",
+		"description": "Este es un producto posteado desde Postman",
+		"price": 19.99,
+		"thumbnail": "imagenPostman.jpg",
+		"code": 64,
+		"stock": 10,
+		"category": "realTimeProduct",
+		"status": true,
+		"id": 5
+	},
+	{
+		"title": "prueba de producto en tiempo real 21",
+		"description": "Este es un producto posteado desde Postman",
+		"price": 19.99,
+		"thumbnail": "imagenPostman.jpg",
+		"code": 65,
+		"stock": 10,
+		"category": "realTimeProduct",
+		"status": true,
+		"id": 6
+	}
+]
